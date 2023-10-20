@@ -54,6 +54,10 @@ li{
     background-color: #00008B;
 }
 
+.bg-gray{
+    background-color:#D3D3D3 ;
+}
+
 .margin{
     margin: 20px auto;
 }
