@@ -87,3 +87,47 @@ li{
     width: 100%;
     height: 700px;
 }
+
+footer{
+    background-color:#23272A ;
+}
+
+.col-28{
+    background-color:#F08080 ;
+    height: 500px;
+    width: calc(28%);
+}
+
+.col-18{
+    background-color: #20B2AA;
+    height: 500px;
+    width: calc(72% / 4);
+    border: 2px dashed white;
+}
+
+.col-f-100{
+    background-color:#7FFFD4 ;
+    width: 100%;
+    height: 40px;
+    justify-content: space-between;
+}
+
+.m-buttom{
+    margin-bottom: 20px;
+}
+
+.sub-container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.sub{
+    justify-content: space-between;
+}
+
+.col-b{
+    background-color:#FFB6C1 ; 
+    width: 60px;
+    text-align: center; 
+}
