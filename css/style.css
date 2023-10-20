@@ -8,28 +8,33 @@ header{
     width: 100%;
 }
 
-.conteiner{
+.container{
     max-width: 1000px;
     margin: 0 auto;
     padding: 10px;
 }
+
 .row{
     width: 100%;
     display: flex;
 }
+
 .contain{
     padding: 5px;
 }
+
 .col-25{
-    background-color: #eeb31e ;
+    background-color: #DAA520 ;
     border: 1px dashed black;
     width: 25%
 }
+
 .col-50{
-    background-color: #eeb31e ;
+    background-color: #DAA520 ;
     width: 50%;
     border: 1px dashed black;
 }
+
 ul{
     display: flex;
     list-style-type: none;
@@ -40,6 +45,19 @@ li{
     justify-content: center;
     margin: 0 10px;
 }
+
 .t-end{
    text-align: end;
+}
+
+.bg-blue{
+    background-color: #00008B;
+}
+
+.col-80{
+    width: 80%;
+    height: 200px;
+    background-color: #EE82EE;
+    border: 1px dashed black;
+    margin: 30px auto;
 }
